@@ -1,6 +1,5 @@
 export default function DiaryForm() {
-    //追加関数の定義
-    // → WebAPIと連携
+    //追加関数をカスタムフックから取得
 
     //送信時に日記追加関数を利用
 
